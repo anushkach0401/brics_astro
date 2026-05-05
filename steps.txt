@@ -1,2 +1,11 @@
 Steps to setup
 
+PS C:\Learning\brics_astro> python -m venv .venv       
+
+
+PS C:\Learning\brics_astro> cd .venv                       
+PS C:\Learning\brics_astro\.venv> cd Scripts                     
+PS C:\Learning\brics_astro\.venv\Scripts> .\activate                     
+(.venv) PS C:\Learning\brics_astro\.venv\Scripts> cd..                           
+(.venv) PS C:\Learning\brics_astro\.venv> cd..
+
